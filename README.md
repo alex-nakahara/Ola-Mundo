@@ -13,4 +13,3 @@ Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 ## **CAMPEONADO BRASILEIRO - 2023**
 1. Time A - 50 pts
 _**Cidade:** Londrina_
-2. Time B - 20 pts
